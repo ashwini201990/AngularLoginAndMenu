@@ -1,0 +1,11 @@
+.card-body{
+    background-color: rgb(141 142 185)!important;
+}
+.bosizing{
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+
+}
